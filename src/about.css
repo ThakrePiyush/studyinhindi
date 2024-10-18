@@ -1,0 +1,17 @@
+
+.footer{
+  background-color: #b7b75d;
+  height: 5rem;
+  position: static;
+}
+.footerNav{
+  text-decoration: none;
+  margin: 2px 8px;
+}
+.actualDiv{
+  margin-bottom: 6rem;
+}
+.actualDiv h2{
+  font-size: 25px;
+  text-align: center;
+}
